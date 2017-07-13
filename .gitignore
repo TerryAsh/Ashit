@@ -1,0 +1,10 @@
+Pods
+Podfile.lock
+FangYou.xcodeproj/xcuserdata
+FangYou.xcworkspace/xcuserdata
+.DS_Store
+*.swp
+.idea/
+build/
+FangYou.xcodeproj/project.xcworkspace/xcshareddata
+FangYou.xcworkspace/xcshareddata/
